@@ -1,0 +1,20 @@
+#resultCards {
+  display: flex;
+}
+
+.bdiv {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card-title {
+  text-align: center;
+}
+
+#cards {
+  display: flex;
+}
+
+.card {
+  margin: 0rem, 5rem;
+}
